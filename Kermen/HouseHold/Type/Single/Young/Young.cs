@@ -1,6 +1,6 @@
 ﻿namespace Kermen.HouseHold.Single
 {
-    public class Young : Single
+    public class Young : Type.Single.Single
     {
 
         private const int NumberOfRooms = 1;

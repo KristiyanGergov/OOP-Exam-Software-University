@@ -1,4 +1,4 @@
-﻿namespace Kermen.HouseHold.Single
+﻿namespace Kermen.HouseHold.Type.Single
 {
     public abstract class Single : HouseHold
     {

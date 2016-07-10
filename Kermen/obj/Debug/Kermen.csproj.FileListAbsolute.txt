@@ -1,1 +1,6 @@
 d:\Documents\Visual Studio 2015\Projects\OppExam\Kermen\bin\Debug\Kermen.exe.config
+d:\documents\visual studio 2015\Projects\OppExam\Kermen\obj\Debug\Kermen.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\OppExam\Kermen\bin\Debug\Kermen.exe
+d:\documents\visual studio 2015\Projects\OppExam\Kermen\bin\Debug\Kermen.pdb
+d:\documents\visual studio 2015\Projects\OppExam\Kermen\obj\Debug\Kermen.exe
+d:\documents\visual studio 2015\Projects\OppExam\Kermen\obj\Debug\Kermen.pdb

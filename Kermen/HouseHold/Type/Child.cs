@@ -15,5 +15,6 @@
         {
             return this.consumption.Sum();
         }
+
     }
 }

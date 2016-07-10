@@ -17,7 +17,7 @@
 
         public override int Population => 1 + base.Population;
 
-        public override decimal Consumption => tvCost * fridgeCost * base.Consumption;
+        public override decimal Consumption => tvCost + fridgeCost + base.Consumption;
 
     }
 }
